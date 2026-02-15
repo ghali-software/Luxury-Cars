@@ -1,0 +1,8 @@
+/*
+ * ArrowDown (phosphor-icons/ArrowDown@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "/assets/js/991-ArrowDown.js"
+export { default } from "/assets/js/991-ArrowDown.js"

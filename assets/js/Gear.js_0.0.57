@@ -1,0 +1,8 @@
+/*
+ * Gear (phosphor-icons/Gear@0.0.57)
+ *
+ * Learn More: https://www.framer.com/asset-urls
+ */
+
+export * from "/assets/js/1008-Gear.js"
+export { default } from "/assets/js/1008-Gear.js"
